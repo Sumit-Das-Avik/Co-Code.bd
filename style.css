@@ -1,6 +1,20 @@
 body{
-    font-family: 'IBM Plex Sans', sans-serif;
+    
     margin: 0;
     font-family: 'Rubik', sans-serif;
 
+}
+.double-sec{
+    display: flex;
+    
+}
+.double-div{
+    width: 50%;
+    padding: 30px;
+}
+.stay-focused{
+    font-size: 40px;
+}
+.codding-mission2022{
+    
 }
