@@ -6,15 +6,51 @@ body{
 }
 .double-sec{
     display: flex;
-    
+    background-image: url(imgs/header-bg.png);
+    background-repeat: no-repeat;
 }
 .double-div{
     width: 50%;
     padding: 30px;
 }
 .stay-focused{
-    font-size: 40px;
+    font-size: 60px;
 }
 .codding-mission2022{
-    
+    color: wheat;
+}
+.o{
+    color: orangered;
+}
+.para01{
+    color: skyblue;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-bottom: 20px;
+
+}
+.html{
+    color: black;
+    font-weight: 600;
+}
+.css{
+    color: black;
+    font-weight: 600;
+}
+.Explore-Now{
+    text-decoration: none;
+    text-align: center;
+    font-weight: 700;
+    color: white;
+    background-color: orangered;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px 40px;
+   
+}
+.scroll{
+   margin-top: 30px;
+}
+.one-img{
+    width: 80%;
+    padding: 30px 30px 50px 80px;
 }
